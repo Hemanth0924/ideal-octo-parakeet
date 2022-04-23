@@ -1,0 +1,13 @@
+.header{
+
+    background-color: rgb(69, 224, 224);
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
